@@ -1,6 +1,6 @@
 """
 Question:
-Write a function for mutliply(a, b) but you can only use the + or − operators.
+Write a function for mutliply 2 intergers but you can only use the + or − operators.
 """
 
 def Add(a, b, num):
